@@ -1,4 +1,3 @@
-from Clio import Clio
+from clio import Clio
 
-clio1 = Clio(4, "yellow","17676", 5000)
-clio1.check_number_doors()
+clio1 = Clio(7, "yellow","17676", 5000)
